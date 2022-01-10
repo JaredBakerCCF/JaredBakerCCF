@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JaredBakerCCF
-- 👀 I’m interested in learning how to become a software engineer.
-- 🌱 I’m currently in the Navy and will be transitioning out soon.  
-- 💞️ I’m planning on doing an internship with MSSA for cloud application development which I will have to learn C#, ASP.net, Javascript, SQL, and HTML.
-- 📫 Please reach out to me via my LinkedIn profile if you have any tips, advice, or recommendations on where I should start! 
+- 👀 I’m interested in learning how to become a Software Engineer/DevOps Engineer.
+- 💞️ I’m currently interning for a DevOps Engineer Role on the CloudOPS Team at Second Front Systems.
 
 <!---
 JaredBakerCCF/JaredBakerCCF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
